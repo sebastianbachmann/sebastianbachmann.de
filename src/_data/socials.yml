@@ -1,25 +1,25 @@
 email:
-  handle: joe@masilotti.com
-  title: Email Joe
-  href: mailto:joe@masilotti.com
+  handle: sebastianbachmann@hey.com
+  title: Email Sebastian Bachmann
+  href: mailto:sebastianbachmann@hey.com
   icon: solid/envelope
 twitter:
-  handle: joemasilotti
+  handle: buk
   title: Follow on Twitter
-  href: https://twitter.com/joemasilotti
+  href: https://twitter.com/buk
   icon: twitter
 github:
-  handle: joemasilotti
+  handle: sebastianbachmann
   title: Follow on GitHub
-  href: https://github.com/joemasilotti
+  href: https://github.com/sebastianbachmann
   icon: github
 mastodon:
-  handle: joemasilotti
+  handle: sjm
   title: Follow on Mastodon
-  href: https://ruby.social/@joemasilotti
+  href: https://mastodon.bachmann.wtf/@sjm
   icon: mastodon
 linkedin:
-  handle: joemasilotti
+  handle: sebastian-bachmann
   title: Follow on LinkedIn
-  href: https://www.linkedin.com/in/joemasilotti
+  href: https://www.linkedin.com/in/sebastian-bachmann
   icon: linkedin
