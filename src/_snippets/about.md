@@ -1,12 +1,12 @@
 ---
 ---
 
-<p class="lead">I help folks <a href="/services">confidently</a> launch Android and iOS apps with Turbo Native and Ruby on Rails.</p>
+<p class="lead">Ich möchte <a href="/services">beim</a> launch von mobilen Anwendungen</p>
 
-I started by journey in 2012 at Pivotal Labs where I learned Ruby on Rails, test-driven development, and pair programming.
+Richtig los ging es bei mir mit der Softwareentwicklung 2012 bei der Lauer & Teuber GbR in Dietzenbach. Dies war mein erster bezahlter Job in dem Bereich und seitdem müssen sich alle anderen Jobs an diesem ersten Job messen
 
-After Labs I worked for a startup for 5 years as the lead developer. I built the Android and iOS apps with Turbo Native and advice from the team at Basecamp. Back when it was still called Turbolinks!
+Danach
 
-At the beginning of 2020 I decided to stake out on my own and went independent. Since then I've worked on a bunch of side projects and launched dozens of apps in the App Store.
+Im Jahr ...
 
-Now I'm focused on spreading Turbo Native and teaching developers what it takes to be a solopreneur. I'm sharing my journey as the solo-founder of transparent businesses like [RailsDevs](https://railsdevs.com), the _reverse_ job board for Ruby on Rails developers.
+Nun konzentriere ich mich auf das Abenteuer Selbstängigkeit. Ich berichte über meine Fortschritte auf [Twitter](https://twitter.com/buk)
