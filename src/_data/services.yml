@@ -1,7 +1,7 @@
 - title: Zero to App Store
   best_if: you need a brand new Turbo Native app and want me to do everything.
   you_get: a developer (me) to build your Android and iOS apps and launch them.
-  cta: Email Joe to get started
+  cta: Email Sebastian to get started
   description: |
     I write all of the native Kotlin/Swift code and Rails integration needed. We can
     integrate with native Apple SDKs, too. I work with your designers and
@@ -11,7 +11,7 @@
 - title: Private custom workshop
   best_if: you want to level up your team to write Turbo Native apps on their own.
   you_get: a custom workshop tailored to your team's unique needs and skill level.
-  cta: Email Joe to get started
+  cta: Email Sebastian to get started
   description: |
     Workshops can range from virtual, half-day sessions to in-person, multi-day
     events.  They can cover Kotlin/Swift syntax, dive right into the Turbo
@@ -21,7 +21,7 @@
 - title: Monthly advisory retainer
   best_if: you want to write the code yourself but need an expert to guide you.
   you_get: unlimited access to me via phone, email, and/or Zoom.
-  cta: Email Joe to get started
+  cta: Email Sebastian to get started
   description: |
     Use our time to get advice on best practices, receive technical overviews of
     topics, or even to dive into your Turbo Native code. I return all messages
@@ -31,7 +31,7 @@
   price: $299 for a 45 minute call
   best_if: you have a few specific questions on Turbo Native.
   you_get: a live video call to consult with an expert.
-  href: https://savvycal.com/joemasilotti/3abb50a0
+  href: https://cal.com/sebastianbachmann
   cta: Schedule a meeting
   description: |
     A private 45-minute video chat with me. Use our time to ask questions, learn
