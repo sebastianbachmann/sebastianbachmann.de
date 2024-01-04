@@ -1,10 +1,9 @@
 ---
-title: Idea to App Store in 7 days
+title: Lorem ipsum
 date: 2023-12-14
 description: |
-  The story of Daily Log, a web and iOS app that I built and launched to the App
-  Store in 7 days.
-permalink: /idea-to-app-store-in-7-days/
+    lorem ipsum
+permalink:
 ---
 
 Last week I started a new project to scratch an itch. Something simple but useful. And in just **7 days** I launched a web and iOS app to the App Store. Here’s the story of [Daily Log](https://dailylog.ing).
