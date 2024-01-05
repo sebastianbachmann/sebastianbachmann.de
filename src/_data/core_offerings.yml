@@ -4,3 +4,10 @@
   cta: Arbeiten Sie mit mir
   description: |
     Development, advisory, and custom Turbo Native training for your team.
+
+- title: Produktentwicklung
+  icon: /images/icons/outline/computer_desktop.svg
+  href: _pages/services.erb
+  cta: Arbeiten Sie mit mir
+  description: |
+    Development, advisory, and custom Turbo Native training for your team.

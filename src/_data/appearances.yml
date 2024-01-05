@@ -6,7 +6,7 @@ conferences:
       facilisi. Nulla facilisi. Nulla facilisi. Nulla facil
     event: Lorem Ipsum
     cta: Lorem Ipsum
-    href: lorem-ipsum
+    href:
 
 podcasts:
   - title: Episode 17
@@ -14,4 +14,4 @@ podcasts:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod
     event: Lorem ipsum
     cta: Lorem ipsum
-    href: lorem-ipsum
+    href:

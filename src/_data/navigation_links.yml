@@ -1,19 +1,14 @@
--
-  title: About
+- title: About
   href: _pages/about.erb
 
--
-  title: Articles
+- title: Articles
   href: _pages/articles.erb
 
--
-  title: Services
+- title: Services
   href: _pages/services.erb
+# -
+# title: Newsletter
+# href: _pages/newsletter.erb
 
--
-  title: Newsletter
-  href: _pages/newsletter.erb
-
--
-  title: Hotwire
-  href: _pages/hotwire.erb
+# - title: Hotwire
+#   href: _pages/hotwire.erb

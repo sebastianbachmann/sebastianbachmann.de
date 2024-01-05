@@ -1,14 +1,14 @@
 ---
 title: Articles
 description: |
-  My writing on Turbo Native, Ruby on Rails, and being a solopreneur.
+  Lesen Sie mehr über meine Arbeit und Projekt, sowie Ausflüge in die Welt der Softwareentwicklung.
 permalink: /articles/
 
 ---
 
 <%= render UI::SimpleLayout.new(
-  title: "My writing on Turbo Native, Ruby on Rails, and being a solopreneur.",
-  intro: "Get started with my latest article and some of my favorites."
+  title: "Lesen Sie mehr über meine Arbeit und Projekt, sowie Ausflüge in die Welt der Softwareentwicklung.",
+  intro: "Lesen Sie meinen aktuellen Artikel, oder ein paar meiner Favoritten."
 ) do %>
   <div class="flex max-w-3xl flex-col space-y-12">
     <%= render Article.new(collections.posts.resources.first, hide_date: true, badge: :new) %>

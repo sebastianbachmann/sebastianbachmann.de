@@ -1,24 +1,19 @@
 ---
 ---
 
-<p class="lead"Thanks for subscribing to my newsletter! ❤️</p>
+Herzlichen Dank für Ihr Anmeldung zu meinem Newsletter!
 
-I have so much to share with you.
+Ich bin Sebastian Bachmann. Ich helfe Ihnen und anderen, ...
 
-I'm Sebastian Bachmann. I help folks launch iOS apps in the App Store with Turbo Native and Ruby on Rails. I'm also the solo-founder of [RailsDevs](https://railsdevs.com).
+Alle meine Emails kommen zukünftig von dieser Addresse: `guude@sebastianbachmann.de`.
 
-All my emails will come from this address: `guude@sebastianbachmann.de`. The next newsletter should arrive on Monday.
+Bis dahin, hier sind einige meiner beliebtesten Artikel:
 
-Until then, here are 3 of my favorite things I've written:
+1. [ToDo]()
+1. [ToDo]()
+1. [ToDo]()
 
-1. [Hybrid iOS apps with Turbo](https://masilotti.com/turbo-ios/)
-1. [Zero to App Store in 7 weeks](https://masilotti.com/zero-to-app-store-in-7-weeks/)
-1. [How I took my SaaS from idea to sold in 14 months](https://masilotti.com/idea-to-sold-in-14-months/)
+**Können Sie mir antworten und mir mitteilen, was Sie über ... erfahren möchten?** Dann kann ich mehr Inhalte erstellen, die _Sie_ wissen müssen.
 
-But please, don't be shy! I'd love to hear from you.
 
-**Can you reply and let me know what you want to learn about Turbo Native?** Then I can create more content on what _you_ need to know.
-
-Once again, thank you for subscribing.
-
-Chat soon,<br>Sebastian Bachmann
+Bis bald,<br>Sebastian Bachmann
