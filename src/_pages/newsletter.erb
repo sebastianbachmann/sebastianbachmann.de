@@ -1,7 +1,7 @@
 ~~~ruby
 front_matter do
   title "Meine Newsletter"
-  description -> { site.data.newsletters.masilotti.description }
+  description -> { site.data.newsletters.sebastianbachmann.description }
   permalink "/newsletter/"
 
   image "/images/pages/newsletter.png"
@@ -12,7 +12,7 @@ end
 <%= render UI::SimpleLayout.new(
   title: resource.data.title,
   intro: resource.data.description,
-  newsletter: site.data.newsletters.masilotti
+  newsletter: site.data.newsletters.sebastianbachmann
 ) do %>
   <div class="prose max-w-xl -mt-4">
     <blockquote>
