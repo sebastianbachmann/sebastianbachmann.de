@@ -1,0 +1,30 @@
+- title: Zero to App Store
+  best_if: you need a brand new Turbo Native app and want me to do everything.
+  you_get: a developer (me) to build your Android and iOS apps and launch them.
+  cta: Email Sebastian to get started
+  description: |
+    I write all of the native Kotlin/Swift code and Rails integration needed. We can
+    integrate with native Apple SDKs, too. I work with your designers and
+    developers to teach and apply the best practices I've accumulated working
+    with the framework for 7+ years.
+
+- title: Ihre Webseite mit KirbyCMS
+  best_if: Sie eine Webseite haben, aber mit dem darunteriegenden CMS nicht mehr arbeiten möchten.
+  you_get: Ihre schon vorhandene, oder eine Webseite im neuen Design mit KirbyCMS als unterbau
+  cta: Ja ich möchte eine neue Webseite
+  description: |
+    Workshops can range from virtual, half-day sessions to in-person, multi-day
+    events.  They can cover Kotlin/Swift syntax, dive right into the Turbo
+    Native integration, or skip ahead to best practices in building scalable
+    hybrid apps with small teams.
+  price: €299
+
+- title: 1:1 Meeting
+  price: €299 für einen 45 Minuten Videocall
+  best_if: wenn Sie bereits eine Produktidee haben und diese besprechen möchten.
+  you_get: einen Live Video Call mit mir und meiner Erfahrung aus 15 Jahren Produkt- und Softwareentwicklung.
+  href: https://cal.com/sebastianbachmann
+  cta: Ein Meeting buchen
+  description: |
+    Ein privater 45-Minuten Videocall mit mir. Nutzen Sie diese Zeit um gezielt Fragen zu stellen,
+    aus meinen Fehlern zu lernen, oder um Ihre Idee zu validieren.

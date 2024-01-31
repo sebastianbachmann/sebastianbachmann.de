@@ -1,13 +1,20 @@
 - title: Softwareentwicklung
   icon: /images/icons/outline/computer_desktop.svg
-  href: _pages/services.erb
+  href: _pages/softwareentwicklung.erb
   cta: Arbeiten Sie mit mir
   description: |
     Development, advisory, and custom Turbo Native training for your team.
 
 - title: Produktentwicklung
   icon: /images/icons/outline/computer_desktop.svg
-  href: _pages/services.erb
+  href: _pages/produktentwicklung.erb
+  cta: Arbeiten Sie mit mir
+  description: |
+    Development, advisory, and custom Turbo Native training for your team.
+
+- title: Technologieberatung
+  icon: /images/icons/outline/computer_desktop.svg
+  href: _pages/technologieberatung.erb
   cta: Arbeiten Sie mit mir
   description: |
     Development, advisory, and custom Turbo Native training for your team.

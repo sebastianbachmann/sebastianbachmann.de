@@ -1,0 +1,21 @@
+---
+title: Softwareentwicklung
+description: |
+  Seit 2012 bin ich in der Softwareentwicklung zu Hause. Während dieser Zeit habe ich verschiedene Firmen geholfen und unterstsützt.
+  Nun ist es an der Zeit, Ihnen bei Ihren Ideen zu helfen!
+permalink: /softwareentwicklung/
+
+image: /images/pages/services.png
+
+---
+
+<%= render UI::SimpleLayout.new(
+  title: "Need a hand with your Turbo Native app? I'd love to help.",
+  intro: resource.data.description
+) do %>
+  <div class="flex max-w-xl flex-col space-y-16">
+    <% site.data.services_softwaredevelopment.each do |service| %>
+      <%= render Service.new(**{href: site.data.socials.email.href}.merge(service).to_options) %>
+    <% end %>
+  </div>
+<% end %>

@@ -1,14 +1,19 @@
-- title: About
+- title: Start
+  href: /
+
+- title: Über
   href: _pages/about.erb
 
-- title: Articles
-  href: _pages/articles.erb
+- title: Softwareentwicklung
+  href: _pages/softwareentwicklung.erb
 
-- title: Services
-  href: _pages/services.erb
-# -
-# title: Newsletter
-# href: _pages/newsletter.erb
+- title: Produktentwicklung
+  href: _pages/produktentwicklung.erb
 
-# - title: Hotwire
-#   href: _pages/hotwire.erb
+- title: Technologieberatung
+  href: _pages/technologieberatung.erb
+
+- title: Referenzen
+  href: _pages/projects.erb
+# - title: Blog
+# href: _pages/articles.erb

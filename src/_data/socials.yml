@@ -1,25 +1,25 @@
 email:
   handle: sebastianbachmann@hey.com
-  title: Email Sebastian Bachmann
+  title: Email an Sebastian Bachmann
   href: mailto:sebastianbachmann@hey.com
   icon: solid/envelope
 twitter:
   handle: buk
-  title: Follow on Twitter
+  title: Auf Twitter vernetzen
   href: https://twitter.com/buk
   icon: twitter
 github:
   handle: sebastianbachmann
-  title: Follow on GitHub
+  title: Auf GitHub vernetzen
   href: https://github.com/sebastianbachmann
   icon: github
 mastodon:
   handle: sjm
-  title: Follow on Mastodon
+  title: Auf Mastodon vernetzen
   href: https://mastodon.bachmann.wtf/@sjm
   icon: mastodon
 linkedin:
   handle: sebastian-bachmann
-  title: Follow on LinkedIn
+  title: Auf LinkedIn vernetzen
   href: https://www.linkedin.com/in/sebastian-bachmann
   icon: linkedin

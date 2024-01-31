@@ -1,0 +1,19 @@
+---
+title: Technologieberatung
+description: |
+    KI, AI, ChatGPT, PerplexityAI, No-Code, Low-Code, CRM, ERP,
+permalink: /technologieberatung/
+
+image: /images/pages/services.png
+
+---
+<%= render UI::SimpleLayout.new(
+  title: "Ich blicke für Sie durch!",
+  intro: resource.data.description
+) do %>
+  <div class="flex max-w-xl flex-col space-y-16">
+    <% site.data.services_technologyconsulting.each do |service| %>
+      <%= render Service.new(**{href: site.data.socials.email.href}.merge(service).to_options) %>
+    <% end %>
+  </div>
+<% end %>
