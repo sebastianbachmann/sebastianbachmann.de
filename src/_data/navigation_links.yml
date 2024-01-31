@@ -1,19 +1,20 @@
 - title: Start
   href: /
 
-- title: Über
+- title: Über Mich
   href: _pages/about.erb
 
-- title: Softwareentwicklung
-  href: _pages/softwareentwicklung.erb
+# - title: Softwareentwicklung
+#   href: _pages/softwareentwicklung.erb
 
-- title: Produktentwicklung
-  href: _pages/produktentwicklung.erb
+# - title: Produktentwicklung
+#   href: _pages/produktentwicklung.erb
 
-- title: Technologieberatung
-  href: _pages/technologieberatung.erb
+# - title: Technologieberatung
+#   href: _pages/technologieberatung.erb
 
 - title: Referenzen
   href: _pages/projects.erb
-# - title: Blog
-# href: _pages/articles.erb
+
+- title: Blog
+  href: _pages/articles.erb

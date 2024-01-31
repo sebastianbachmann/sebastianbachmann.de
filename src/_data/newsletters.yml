@@ -1,20 +1,6 @@
-hotwire:
-  action: https://buttondown.email/api/emails/embed-subscribe/hotwire
-  onsubmit: https://buttondown.email/hotwire
-  title: ⚡️ Hotwire dev newsletter
-  description: |
-    A curated, monthly roundup of the best Turbo (Native), Stimulus, and
-    Strada articles, code, courses, and more.
-
-workshop:
+sebastianbachmann:
   action: https://buttondown.email/api/emails/embed-subscribe/joemasilotti
   onsubmit: https://buttondown.email/joemasilotti
-  tag: workshop
-
-masilotti:
-  action: https://buttondown.email/api/emails/embed-subscribe/joemasilotti
-  onsubmit: https://buttondown.email/joemasilotti
-  title: Get my weekly newsletter
+  title: Abonnieren Sie meinen Newsletter
   description: |
-    A weekly newsletter on Turbo Native, Ruby on Rails, and being a solopreneur.
-    Unlock exclusive subscriber content and first access to my upcoming book.
+    Ein Newsletter in unregelmäßigen Abständen über Softwareentwicklung, Produktentwicklung und Technologieberatung.
