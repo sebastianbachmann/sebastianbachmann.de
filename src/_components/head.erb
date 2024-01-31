@@ -25,8 +25,8 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=3">
 <link rel="manifest" href="/site.webmanifest?v=3">
 <link rel="shortcut icon" href="/favicon.ico?v=3">
-<meta name="apple-mobile-web-app-title" content="Masilotti.com">
-<meta name="application-name" content="Masilotti.com">
+<meta name="apple-mobile-web-app-title" content="Sebastianbachmann.de">
+<meta name="application-name" content="Sebastianbachmann.de">
 <meta name="msapplication-TileColor" content="#00a300">
 <meta name="theme-color" content="#fafafa">
 
@@ -36,6 +36,5 @@
 
 <%= tag "link", rel: "stylesheet", href: webpack_path(:css) %>
 <script src="<%= webpack_path(:js) %>" defer></script>
-<script src="https://cdn.usefathom.com/script.js" data-site="<%= fathom_site_id %>" defer></script>
-
+<script defer data-domain="sebastianbachmann.de" src="https://plausible.io/js/script.js"></script>
 <%= live_reload_dev_js %>
