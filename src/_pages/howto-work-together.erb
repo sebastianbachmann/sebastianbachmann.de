@@ -1,0 +1,17 @@
+---
+title: Zusammenarbeit
+description: |
+  Moep
+permalink: /zusammenarbeit/
+---
+<%= render UI::SimpleLayout.new(
+  title: "Ich möchte die Dinge etwas anders angehen. Lesen Sie hier wie.",
+  intro: resource.data.description
+) do %>
+  <div class="flex max-w-xl flex-col space-y-16">
+      lorem ipsum dolor sit amet
+    <% site.data.services_softwaredevelopment.each do |service| %>
+      <%= render Service.new(**{href: site.data.socials.email.href}.merge(service).to_options) %>
+    <% end %>
+  </div>
+<% end %>
