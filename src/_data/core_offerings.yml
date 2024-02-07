@@ -3,18 +3,18 @@
   href: _pages/softwareentwicklung.erb
   cta: Arbeiten Sie mit mir
   description: |
-    Mobile Anwendungen, Webanwendungen, Machine Learning
+    Mobile Apps, Web Apps, Prototypen & MVPs.
 
 - title: Produktentwicklung
   icon: /images/icons/outline/computer_desktop.svg
   href: _pages/produktentwicklung.erb
   cta: Arbeiten Sie mit mir
   description: |
-    Betreuung Ihres Produktes von Kickoff bis Go-Live.
+    Ich betreue Ihr Produkt, vom Kickoff bis zum Go-Live.
 
 - title: Technologieberatung
   icon: /images/icons/outline/computer_desktop.svg
   href: _pages/technologieberatung.erb
   cta: Arbeiten Sie mit mir
   description: |
-    KI, AI, Low-Code, No-Code. Ich behalte für Sie den Überblick.
+    KI, AI, Low-Code, No-Code ... Ich behalte für Sie den Überblick.

@@ -1,16 +1,14 @@
 - title: Mobile App Entwicklung
-  best_if: you need a brand new Turbo Native app and want me to do everything.
-  you_get: a developer (me) to build your Android and iOS apps and launch them.
-  cta: Email Sebastian to get started
+  best_if: Sie eine Mobile App für Android und iOS benötigen.
+  you_get: Mich, einen erfahrenen Softwareentwickler, der Ihre App von A bis Z entwickelt.
+  cta: Ja ich möchte eine mobile Anwendung
   description: |
-    I write all of the native Kotlin/Swift code and Rails integration needed. We can
-    integrate with native Apple SDKs, too. I work with your designers and
-    developers to teach and apply the best practices I've accumulated working
-    with the framework for 7+ years.
+    Ich werde die App von A bis Z mit Flutter - oder nativ mit Swift/Kotlin - entwickeln.
+    Ebenso kümmere ich mich um die Integration mit Ihren bestehenden Systemen, bzw. kann Ihnen bei der Auswahl von Backend-Systemen helfen oder ein eigenes Backend für Sie entwickeln.
 
 - title: Ihre Webseite mit KirbyCMS
-  best_if: Sie eine Webseite haben, aber mit dem darunteriegenden CMS nicht mehr arbeiten möchten.
-  you_get: Ihre schon vorhandene, oder eine Webseite im neuen Design mit KirbyCMS als unterbau
+  best_if: Sie eine Webseite haben, aber mit dem darunterliegenden CMS nicht mehr arbeiten möchten.
+  you_get: Ihre schon vorhandene, oder eine Webseite im neuen Design mit KirbyCMS als Unterbau
   cta: Ja ich möchte eine neue Webseite
   description: |
     Workshops can range from virtual, half-day sessions to in-person, multi-day
@@ -23,6 +21,15 @@
   best_if: you want to write the code yourself but need an expert to guide you.
   you_get: unlimited access to me via phone, email, and/or Zoom.
   cta: Email Sebastian to get started
+  description: |
+    Use our time to get advice on best practices, receive technical overviews of
+    topics, or even to dive into your Turbo Native code. I return all messages
+    no later than the next business day. Meetings must be scheduled in advance.
+
+- title: Prototypen & MVPs
+  best_if: Sie eine Idee für eine Mobile App oder Web App haben, und erstmal sehen wollen ob es funktioniert.
+  you_get: Einen Prototypen oder ein MVP erstellt mit Figma, um Ihre Idee zu testen.
+  cta: Ja ich möchte erstmal einen Prototypen
   description: |
     Use our time to get advice on best practices, receive technical overviews of
     topics, or even to dive into your Turbo Native code. I return all messages
